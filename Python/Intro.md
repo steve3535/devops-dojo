@@ -15,7 +15,17 @@ Autrement dit:
    * Gardez votre cerveau pour les tâches complexes.   
      Eliminez "l'opérationnel" en écrivant tout ce qui peut l'être: ca vous fera gagner en temps !!!  
      
-     Pour se faire, je recommande deux outils: 
+     Pour se faire, je recommande trois outils: 
+     * Break it down !  
+     Morceller autant que faire se peut, tout problème complexe en une série de "micro" problèmes.  
+     Il faut entraîner le cerveau à cela.   
+     
+     D'ailleurs, la "philosophie Unix" - dont je suppose que nous héritons ici - énonce deux principes fondamentaux pour la conception et le développement de logiciels. Ce sont la simplicité et le fait de faire une chose à la fois. Ces deux principes sont souvent exprimés par les énoncés suivants:
+
+    "Faire une chose et bien la faire" (Do one thing and do it well): Ce principe suggère que chaque programme ou module doit être conçu pour accomplir une tâche spécifique et se concentrer sur cette tâche. Cela permet d'éviter la complexité et les problèmes qui pourraient résulter de la réalisation de multiples tâches dans un seul programme.  
+
+    "La simplicité est la clé" (Keep it simple, stupid - KISS): Ce principe encourage les développeurs à créer des logiciels simples et faciles à comprendre. Les systèmes simples sont souvent plus faciles à maintenir, à déboguer et à améliorer.  
+       
      * L'utilisation des flowcharts    
      ![image](https://user-images.githubusercontent.com/5098596/229406972-721bc86b-3dad-497d-9c86-8c88812a08c4.png)
        
@@ -26,7 +36,10 @@ Autrement dit:
         
        
      * L'utilisation de pseudo-code   
-   * Appuyez vous sur des modèles mathématiques.
+     Le pseudo-code, c'est écrire du code dans un langage humain: avec des phrases et des mots intelligibles.  
+     
+   * Appuyez vous sur des modèles mathématiques.  
+   Les modèles mathématiques sont partour, et faire l'effort de les (re)onnaître confère un niveau d'abstraction indispensable pour créer toute chose complexe.  
 
 ![image](https://user-images.githubusercontent.com/5098596/229405645-cec2efbd-773b-4daa-9fcb-cf37d969ebcc.png)
 
