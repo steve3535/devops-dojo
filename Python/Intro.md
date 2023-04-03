@@ -3,6 +3,14 @@
 Autrement dit:  
 * les ordinateurs, le code, les frameworks, ... ne sont qu'un outil  
 * l'Informatique est une discipline éminemment scientifique qui va au delà des outils  
-* elle repose sur des concepts fondamentaux, elle repose en l'occurence sur des éléments mathématiques  
+* elle repose sur des concepts fondamentaux, elle repose en l'occurence sur des **éléments mathématiques** - pas d'inquiétude, rien de compliqué    
 * Il y a même une philosophie de l'informatique &#128540;
 > *\*Edsger W. Dijkstra a reçu le Prix Turing en 1972. Le Prix Turing est considéré comme l'équivalent du prix Nobel en informatique et est décerné par l'Association for Computing Machinery (ACM). Dijkstra a reçu ce prestigieux prix en reconnaissance de ses contributions majeures à l'algorithmique, aux langages de programmation et à la philosophie de l'informatique.*  
+
+## I - Les bases  
+
+1. Conseils préliminaires  
+   * Gardez votre cerveau pour les tâches complexes: éliminez "l'opérationnel" en écrivant tout ce qui peut l'être: ca vous fera gagner en temps !!!  
+     Pour se faire, deux superbes outils: 
+     * L'utilisation des flowcharts  
+     * L'utilisation de pseudo-code   
