@@ -106,12 +106,30 @@ PS: pour permuter m elements au sein de n elements: **n!/(n-m)!** - on elimine c
   > Votre camion livre dans 15 différentes villes.    
   > Vous voulez savoir comment sequencer les villes pour que le trajet vous coute le moins possible en carburant.  
   > Si l'evaluation de chaque trajet prend 1 micro seconde, combien de temps vous faudra-til pour tout evaluer ?  
-   
+    
+  ```
+  Solution:  
+  il faut pouvoir essayer toutes les routes possibles avec les villes dans différents ordres:  
+  Ville A > Ville B > Ville C > ...  
+  Ville A > Ville C > Ville B > ...
+  Ville B > Ville A > Ville C > ...
+  etc ..  
+  la réponse est donc 15! = 1 307 674 368 000  
+  ```  
+  
+  
   EXERCICE:  &#128520;
   > Une musicienne etudie une gamme de 13 notes.    
   > Elle doit creer une melodie de 6 notes parmis les 13 de la gamme; elle veut tester tous les sons possibles a partir de cela.
-  > Sachant que pour ecouter une seule melodie, il faut une seconde, combien de temps vous faudra-til pour tout ecouter ?    
-
+  > Sachant que pour ecouter une seule melodie, il faut une seconde, combien de temps vous faudra-til pour tout ecouter ?
+  > Chaque note ne peut apparaitre qu'une seule fois au sein de la melodie      
+    
+  ``` 
+  Solution:  
+  On choisit 6 parmi 13, en tenant compte de l'ordre et en sachant qu'il nya pas de repetition de note.  
+  cela fait donc 13! / (13 - 6)! = 1 235 520 melodies possibles, soit 1 235 520 secondes, soit 343,2 heures  
+  ```  
+    
 **3.3 Permutations avec des termes identiques**   
   
 Considérez le prénom **A N A B E L L E**   
