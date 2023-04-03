@@ -85,3 +85,9 @@ supposons que nous avons n entités.
 De combien de facons peut on choisir 1 entité parmi les n ? Ensuite, si le premier est choisi, de combien de facons peut on chosiir une seconde entité ? Ensuite si le second est choisi, de combien de facons peut on choisir une troisième entité ? etc ...  
 Cela s'exprime par la **factorielle   n! = n x (n-1) x (n-2) x (n-3) x ... x 1**  
 
+**EXERCICE:**  &#128520;
+  > Votre camion livre dans 15 différentes villes.    
+  > Vous voulez savoir comment sequencer les villes pour que le trajet vous coute le moins possible en carburant.  
+  > Si l'evaluation de chaque trajet prend 1 micro seconde, combien de temps vous faudra-til pour tout evaluer ?  
+   
+
