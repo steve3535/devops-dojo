@@ -69,3 +69,8 @@ La logique est une compétence essentielle pour la programmation, car elle aide 
   > Un code PIN est composé de 2 nombres et de 1 lettre. Ca prend une seconde pour essayer un PIN.  
   > Dans le pire des cas, de combien de temps a-t-on besoin pour cracker un PIN ?  
 
+  **EXERCICE:**  &#128520;
+  > Il y a 23 candidats qui veulent rejoindre ton equipe.  
+  > Pour chaque candidat, tu joues a PILE ou FACE et tu n'engage que quand c'est PILE.  
+  > Combien de combinaisons d'équipe sont possibles ?  
+
