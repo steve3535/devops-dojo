@@ -14,12 +14,15 @@ Autrement dit:
 1. Conseils préliminaires  
    * Gardez votre cerveau pour les tâches complexes.   
      Eliminez "l'opérationnel" en écrivant tout ce qui peut l'être: ca vous fera gagner en temps !!!  
-     Pour se faire, deux superbes outils: 
+     <p>
+     Pour se faire, je recommande deux outils: 
      * L'utilisation des flowcharts    
      ![image](https://user-images.githubusercontent.com/5098596/229406972-721bc86b-3dad-497d-9c86-8c88812a08c4.png)
        
-     **Remarque** : Utilisez des symboles standard pour représenter les différentes étapes et éléments du flowchart. Par exemple, les rectangles pour les processus, les losanges pour les décisions, les cercles pour les points de départ et d'arrivée, et les flèches pour indiquer la direction du flux.  
-     **Simplicité** : Gardez le flowchart aussi simple que possible. Évitez les détails inutiles et concentrez-vous sur les étapes clés et les décisions importantes. Si un processus est trop complexe, envisagez de le décomposer en sous-processus ou en sous-flowcharts.  
+     *Remarque* :   
+     *Utilisez des symboles standard pour représenter les différentes étapes et éléments du flowchart.  
+      Par exemple, **les rectangles pour les processus, les losanges pour les décisions, les cercles pour les points de départ et d'arrivée**, et les flèches pour indiquer la direction du flux.  
+      Gardez le flowchart aussi simple que possible. Évitez les détails inutiles et concentrez-vous sur les étapes clés et les décisions importantes. Si un processus est trop complexe, envisagez de le décomposer en sous-processus ou en sous-flowcharts.*    
         
        
      * L'utilisation de pseudo-code   
