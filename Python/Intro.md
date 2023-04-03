@@ -96,5 +96,26 @@ PS: pour permuter m elements au sein de n elements: **n!/(n-m)!** - on elimine c
   > Elle doit creer une melodie de 6 notes parmis les 13 de la gamme; elle veut tester tous les sons possibles a partir de cela.
   > Sachant que pour ecouter une seule melodie, il faut une seconde, combien de temps vous faudra-til pour tout ecouter ?    
 
+3.3 Permutations avec des termes identiques   
+  
+Considérez le prénom **A N A B E L L E**   
+Combien de permutations sont elles possibles avec les lettres de ce prénom ?   
+Non, ce n'est pas 8! = 40 320   
+Parcequ'il y a des lettres qui se repetent. On a 2 A, 2 E et 2 L; on va donc eliminer le overcount.  
+Le resultat revient = **8! / 2! x 2! x 2! = 40 320 / 8 = 5040**
+
+3.4 Combinaisons  
+  
+Supposons à présent qu'on veuille ne pas tenir compte de l'ordre.  
+Comment par exemple choisir m éléments au sein de n éléments sans tenir compte de l'ordre ?  
+La formule du *Binomial* s'applique:   
+**n!/(n-m)!xm!**  
+
+**EXERCICE:**  &#128520;
+
+  > Tu disposes de 8 reines sur un échiquier vide.     
+  > De combien de facons tu peux les disposer ?
+  
+3.5 Sommes 
 
 
