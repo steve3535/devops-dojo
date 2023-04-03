@@ -10,7 +10,16 @@ Autrement dit:
 ## I - Les bases  
 
 1. Conseils préliminaires  
-   * Gardez votre cerveau pour les tâches complexes: éliminez "l'opérationnel" en écrivant tout ce qui peut l'être: ca vous fera gagner en temps !!!  
+   * Gardez votre cerveau pour les tâches complexes. 
+     Eliminez "l'opérationnel" en écrivant tout ce qui peut l'être: ca vous fera gagner en temps !!!  
      Pour se faire, deux superbes outils: 
      * L'utilisation des flowcharts  
      * L'utilisation de pseudo-code   
+   * Appuyez vous sur des modèles mathématiques.
+
+![image](https://user-images.githubusercontent.com/5098596/229405645-cec2efbd-773b-4daa-9fcb-cf37d969ebcc.png)
+
+
+2. La Logique   
+3. Mieux compter  
+4. les Probabilités
