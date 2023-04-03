@@ -102,7 +102,7 @@ Considérez le prénom **A N A B E L L E**
 Combien de permutations sont elles possibles avec les lettres de ce prénom ?   
 Non, ce n'est pas 8! = 40 320   
 Parcequ'il y a des lettres qui se repetent. On a 2 A, 2 E et 2 L; on va donc eliminer le overcount.  
-Le resultat revient = **8! / 2! x 2! x 2! = 40 320 / 8 = 5040**
+Le resultat revient = **8! / (2! x 2! x 2!) = 40 320 / 8 = 5040**
 
 **3.4 Combinaisons**  
   
