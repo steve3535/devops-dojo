@@ -11,7 +11,7 @@ Autrement dit:
 
 ## Contexte
 
-###1. Conseils préliminaires  
+### 1. Conseils préliminaires  
    * Gardez votre cerveau pour les tâches complexes.   
      
      Eliminez "l'opérationnel" en écrivant tout ce qui peut l'être: ca vous fera gagner en temps !!!  
