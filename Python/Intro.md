@@ -160,5 +160,5 @@ La somme de 1 à n:  $$\sum_{i=1}^n i = \frac{n(n+1)}{2}$$
   > L e prix des billets fluctue selon le jour de depart ou darrivee.
   > Combien de paires de jours te faudra -t-il checker pour tassurer de choisir le bon plan ?  
 
-  
+  d
   
