@@ -69,9 +69,17 @@ si un event a lieu n fois, et un autre event a lieu m fois, la probabilité que 
     
 
   EXERCICE:  &#128520;
-  > Un code PIN est composé de 2 nombres et de 1 lettre. Ca prend une seconde pour essayer un PIN.  
+  > Un code PIN est composé de 2 chiffres et de 1 lettre. Ca prend une seconde pour essayer un PIN.  
   > Dans le pire des cas, de combien de temps a-t-on besoin pour cracker un PIN ?  
-
+  
+  ```
+  Solution:  
+  2 chiffres, cela equivaut a un intervalle allant de 00 à 99  
+  1 lettre fait 26 possibilités: de A à Z 
+  Ca fait donc au total 26 x 100 = 2600 possibilités  
+  Et donc 2600 secondes soit environ 43 minutes  
+  ```
+  
   EXERCICE:  &#128520;
   > Il y a 23 candidats qui veulent rejoindre ton equipe.  
   > Pour chaque candidat, tu joues a PILE ou FACE et tu n'engage que quand c'est PILE.  
