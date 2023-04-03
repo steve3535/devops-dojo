@@ -119,4 +119,4 @@ La formule du *Binomial* s'applique:
 **3.5 Sommes** 
 
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$  
-$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$  
+$$\sum_{i=1}^n i \eq n\left( n+1\right)/2$$  
