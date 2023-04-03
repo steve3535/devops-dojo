@@ -74,10 +74,10 @@ La logique est une compétence essentielle pour la programmation, car elle aide 
   > Pour chaque candidat, tu joues a PILE ou FACE et tu n'engage que quand c'est PILE.  
   > Combien de combinaisons d'équipe sont possibles ?  
 
-3.2 Permutations  
+3.2 Permutations 
+<br>
 La permutation , c'est le nombre de facons dont on peut arranger ou ordonner quelquechose.  
 supposons que nous avons n entités.  
 De combien de facons peut on choisir 1 entité parmi les n ? Ensuite, si le premier est choisi, de combien de facons peut on chosiir une seconde entité ? Ensuite si le second est choisi, de combien de facons peut on choisir une troisième entité ? etc ...  
-Cela s'exprime par la **factorielle**  
-**n! = n x (n-1) x (n-2) x (n-3) x ... x 1**  
+Cela s'exprime par la **factorielle   n! = n x (n-1) x (n-2) x (n-3) x ... x 1**  
 
