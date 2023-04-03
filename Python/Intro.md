@@ -18,14 +18,9 @@ Autrement dit:
      * L'utilisation des flowcharts    
      ![image](https://user-images.githubusercontent.com/5098596/229406972-721bc86b-3dad-497d-9c86-8c88812a08c4.png)
        
-       Ce flowchart très simple est utilisé par la quasi majorité des entreprises, y compris SAP.    
-       Quelques unes des règles importantes à respecter pour un flowchart:  
-       **Clarté** : Assurez-vous que votre flowchart est clair et facile à comprendre. Utilisez des termes simples et concis pour décrire les étapes du processus. Évitez les abréviations ou les termes techniques qui pourraient semer la confusion.  
-       **Ordre et séquence** : Présentez les étapes du processus dans un ordre logique et séquentiel. Les étapes doivent être disposées de haut en bas et de gauche à droite pour faciliter la lecture et la compréhension.  
-       **Symboles standard** : Utilisez des symboles standard pour représenter les différentes étapes et éléments du flowchart. Par exemple, les rectangles pour les processus, les losanges pour les décisions, les cercles pour les points de départ et d'arrivée, et les flèches pour indiquer la direction du flux.        **Décisions et branchements** : Représentez clairement les points de décision et les branchements dans le flowchart. Utilisez des losanges pour les points de décision et des flèches pour montrer les différents chemins possibles en fonction des conditions.  
-       **Connexions et flux** : Utilisez des flèches pour montrer le flux entre les différentes étapes du processus. Assurez-vous que les flèches ne se croisent pas et qu'il n'y a pas d'ambiguïté quant à la direction du flux.  
-       **Simplicité** : Gardez le flowchart aussi simple que possible. Évitez les détails inutiles et concentrez-vous sur les étapes clés et les décisions importantes. Si un processus est trop complexe, envisagez de le décomposer en sous-processus ou en sous-flowcharts.  
-       **Validation et vérification** : Une fois que vous avez créé votre flowchart, passez en revue les étapes et les décisions pour vous assurer qu'elles sont logiques et cohérentes. Vérifiez également que le flowchart couvre tous les scénarios possibles et qu'il n'y a pas de boucles ou de chemins sans issue.  
+     **Remarque** : Utilisez des symboles standard pour représenter les différentes étapes et éléments du flowchart. Par exemple, les rectangles pour les processus, les losanges pour les décisions, les cercles pour les points de départ et d'arrivée, et les flèches pour indiquer la direction du flux.  
+     **Simplicité** : Gardez le flowchart aussi simple que possible. Évitez les détails inutiles et concentrez-vous sur les étapes clés et les décisions importantes. Si un processus est trop complexe, envisagez de le décomposer en sous-processus ou en sous-flowcharts.  
+        
        
      * L'utilisation de pseudo-code   
    * Appuyez vous sur des modèles mathématiques.
