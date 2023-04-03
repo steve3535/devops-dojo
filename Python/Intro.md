@@ -118,5 +118,5 @@ La formule du *Binomial* s'applique:
   
 **3.5 Sommes** 
 
-This sentence uses `$` delimiters to show math inline:  $\sum_{i=1}^n i = \frac{n(n+1)}{2}$    
+This sentence uses `$` delimiters to show math inline:  $$\sum_{i=1}^n i = \frac{n(n+1)}{2}$$    
 
