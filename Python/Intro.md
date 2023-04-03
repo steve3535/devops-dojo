@@ -12,7 +12,7 @@ Autrement dit:
 ## I - Les bases  
 
 1. Conseils préliminaires  
-   * Gardez votre cerveau pour les tâches complexes. 
+   * Gardez votre cerveau pour les tâches complexes.   
      Eliminez "l'opérationnel" en écrivant tout ce qui peut l'être: ca vous fera gagner en temps !!!  
      Pour se faire, deux superbes outils: 
      * L'utilisation des flowcharts  
