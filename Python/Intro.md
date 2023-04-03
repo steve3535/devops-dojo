@@ -17,14 +17,17 @@ Autrement dit:
      
      Pour se faire, je recommande trois outils: 
      * Break it down !  
-     Morceller autant que faire se peut, tout problème complexe en une série de "micro" problèmes.  
-     Il faut entraîner le cerveau à cela.   
+       Morceller autant que faire se peut, tout problème complexe en une série de "micro" problèmes.  
+       Il faut entraîner le cerveau à cela.   
      
-     D'ailleurs, la "philosophie Unix" - dont je suppose que nous héritons ici - énonce deux principes fondamentaux pour la conception et le développement de logiciels. Ce sont la simplicité et le fait de faire une chose à la fois. Ces deux principes sont souvent exprimés par les énoncés suivants:
+       D'ailleurs, la "philosophie Unix" - dont je suppose que nous héritons ici - énonce deux principes fondamentaux pour la conception et le développement de logiciels. Ce sont la simplicité et le fait de faire une chose à la fois. Ces deux principes sont souvent exprimés par les énoncés suivants:
 
-    "Faire une chose et bien la faire" (Do one thing and do it well): Ce principe suggère que chaque programme ou module doit être conçu pour accomplir une tâche spécifique et se concentrer sur cette tâche. Cela permet d'éviter la complexité et les problèmes qui pourraient résulter de la réalisation de multiples tâches dans un seul programme.  
+       "Faire une chose et bien la faire" (Do one thing and do it well): Ce principe suggère que chaque programme ou module doit être conçu pour accomplir une tâche spécifique et se concentrer sur cette tâche. Cela permet d'éviter la complexité et les problèmes qui pourraient résulter de la réalisation de multiples tâches dans un seul programme.  
 
-    "La simplicité est la clé" (Keep it simple, stupid - KISS): Ce principe encourage les développeurs à créer des logiciels simples et faciles à comprendre. Les systèmes simples sont souvent plus faciles à maintenir, à déboguer et à améliorer.  
+       "La simplicité est la clé" (Keep it simple, stupid - KISS): Ce principe encourage les développeurs à créer des logiciels simples et faciles à comprendre. Les systèmes simples sont souvent plus faciles à maintenir, à déboguer et à améliorer.  
+       
+       ![image](https://user-images.githubusercontent.com/5098596/229467425-d78bdb7e-4f52-4afd-9bca-33fb6e03aa9c.png)
+
        
      * L'utilisation des flowcharts    
      ![image](https://user-images.githubusercontent.com/5098596/229406972-721bc86b-3dad-497d-9c86-8c88812a08c4.png)
