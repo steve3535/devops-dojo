@@ -14,7 +14,7 @@ Autrement dit:
 1. Conseils préliminaires  
    * Gardez votre cerveau pour les tâches complexes.   
      Eliminez "l'opérationnel" en écrivant tout ce qui peut l'être: ca vous fera gagner en temps !!!  
-     <p>
+     
      Pour se faire, je recommande deux outils: 
      * L'utilisation des flowcharts    
      ![image](https://user-images.githubusercontent.com/5098596/229406972-721bc86b-3dad-497d-9c86-8c88812a08c4.png)
