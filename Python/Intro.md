@@ -62,4 +62,9 @@ Autrement dit:
 La logique est une compétence essentielle pour la programmation, car elle aide à comprendre comment résoudre des problèmes et à prendre des décisions en utilisant des règles et des principes.   
 
 ### 3. Mieux compter  
+3.1. Multiplication  
+* si un event a lieu n fois, et un autre event a lieu m fois, la probabilité que les deux events arrivent est: **m x n** fois   
+  **EXERCICE:**  
+  > Un code PIN est composé de 2 nombres et de 1 lettre. Ca prend une seconde pour essayer un PIN.  
+  > Dans le pire des cas, de combien de temps a-t-on besoin pour cracker un PIN ?  
 
