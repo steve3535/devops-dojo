@@ -15,7 +15,11 @@ Autrement dit:
    * Gardez votre cerveau pour les tâches complexes.   
      Eliminez "l'opérationnel" en écrivant tout ce qui peut l'être: ca vous fera gagner en temps !!!  
      Pour se faire, deux superbes outils: 
-     * L'utilisation des flowcharts  
+     * L'utilisation des flowcharts    
+     ![image](https://user-images.githubusercontent.com/5098596/229406972-721bc86b-3dad-497d-9c86-8c88812a08c4.png)
+       
+       Ce flowchart très simple est utilisé par la quasi majorité des entreprises, y compris SAP.  
+       
      * L'utilisation de pseudo-code   
    * Appuyez vous sur des modèles mathématiques.
 
