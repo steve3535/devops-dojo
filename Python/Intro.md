@@ -62,41 +62,41 @@ Autrement dit:
 La logique est une compétence essentielle pour la programmation, car elle aide à comprendre comment résoudre des problèmes et à prendre des décisions en utilisant des règles et des principes.   
 
 ### 3. Mieux compter  
-3.1. Multiplication  
+  
+**3.1. Multiplication**  
   
 si un event a lieu n fois, et un autre event a lieu m fois, la probabilité que les deux events arrivent est: **m x n** fois 
     
 
-  **EXERCICE:**  &#128520;
+  EXERCICE:  &#128520;
   > Un code PIN est composé de 2 nombres et de 1 lettre. Ca prend une seconde pour essayer un PIN.  
   > Dans le pire des cas, de combien de temps a-t-on besoin pour cracker un PIN ?  
 
-  **EXERCICE:**  &#128520;
+  EXERCICE:  &#128520;
   > Il y a 23 candidats qui veulent rejoindre ton equipe.  
   > Pour chaque candidat, tu joues a PILE ou FACE et tu n'engage que quand c'est PILE.  
   > Combien de combinaisons d'équipe sont possibles ?  
 
-3.2 Permutations 
+**3.2 Permutations** 
   
 La permutation , c'est le nombre de facons dont on peut arranger ou ordonner quelquechose.  
-  
-  
+
 supposons que nous avons n entités.  
 De combien de facons peut on choisir 1 entité parmi les n ? Ensuite, si le premier est choisi, de combien de facons peut on chosiir une seconde entité ? Ensuite si le second est choisi, de combien de facons peut on choisir une troisième entité ? etc ...  
 Cela s'exprime par la **factorielle   n! = n x (n-1) x (n-2) x (n-3) x ... x 1**    
 PS: pour permuter m elements au sein de n elements: **n!/(n-m)!** - on elimine ce quil ne faut pas prendre en compte -     
 
-**EXERCICE:**  &#128520;
+  EXERCICE:  &#128520;
   > Votre camion livre dans 15 différentes villes.    
   > Vous voulez savoir comment sequencer les villes pour que le trajet vous coute le moins possible en carburant.  
   > Si l'evaluation de chaque trajet prend 1 micro seconde, combien de temps vous faudra-til pour tout evaluer ?  
    
-**EXERCICE:**  &#128520;
+  EXERCICE:  &#128520;
   > Une musicienne etudie une gamme de 13 notes.    
   > Elle doit creer une melodie de 6 notes parmis les 13 de la gamme; elle veut tester tous les sons possibles a partir de cela.
   > Sachant que pour ecouter une seule melodie, il faut une seconde, combien de temps vous faudra-til pour tout ecouter ?    
 
-3.3 Permutations avec des termes identiques   
+**3.3 Permutations avec des termes identiques**   
   
 Considérez le prénom **A N A B E L L E**   
 Combien de permutations sont elles possibles avec les lettres de ce prénom ?   
@@ -104,18 +104,18 @@ Non, ce n'est pas 8! = 40 320
 Parcequ'il y a des lettres qui se repetent. On a 2 A, 2 E et 2 L; on va donc eliminer le overcount.  
 Le resultat revient = **8! / 2! x 2! x 2! = 40 320 / 8 = 5040**
 
-3.4 Combinaisons  
+**3.4 Combinaisons**  
   
 Supposons à présent qu'on veuille ne pas tenir compte de l'ordre.  
 Comment par exemple choisir m éléments au sein de n éléments sans tenir compte de l'ordre ?  
 La formule du *Binomial* s'applique:   
 **n!/(n-m)!xm!**  
 
-**EXERCICE:**  &#128520;
+  EXERCICE: &#128520;
 
   > Tu disposes de 8 reines sur un échiquier vide.     
   > De combien de facons tu peux les disposer ?
   
-3.5 Sommes 
+**3.5 Sommes** 
 
 
