@@ -44,23 +44,26 @@ Autrement dit:
      
    * Appuyez vous sur des modèles mathématiques.  
    
-   Les modèles mathématiques sont partout, et faire l'effort de les (re)onnaître confère un niveau d'abstraction indispensable pour créer toute chose complexe. 
-   Exemples:  
-   la théorie des graphes sous-tend tous les réseaux sociaux:  
+     Les modèles mathématiques sont partout, et faire l'effort de les (re)onnaître confère un niveau d'abstraction indispensable pour créer toute chose complexe. 
+     Exemples:  
+     la théorie des graphes sous-tend tous les réseaux sociaux:  
 
-![image](https://user-images.githubusercontent.com/5098596/229405645-cec2efbd-773b-4daa-9fcb-cf37d969ebcc.png)
+     ![image](https://user-images.githubusercontent.com/5098596/229405645-cec2efbd-773b-4daa-9fcb-cf37d969ebcc.png)
 
-   la loi de Poisson est omniprésente dans le Data Science et le Machine Learning, et donc dans l'IA.  
-   
-   La distribution de Poisson est un concept mathématique utilisé pour décrire le nombre d'événements qui se produisent dans un intervalle de temps ou d'espace fixe. Elle est utile dans le domaine de l'intelligence artificielle (IA) pour modéliser et prédire des situations où des événements rares ou aléatoires se produisent.  
+     la loi de Poisson est omniprésente dans le Data Science et le Machine Learning, et donc dans l'IA.  
+     
+     ![image](https://user-images.githubusercontent.com/5098596/229472241-0afe22f1-54d0-400b-b5a9-5da43baa07ef.png)
 
-   Imagine que tu as une boîte de chocolats et que chaque chocolat représente un événement, comme recevoir un e-mail. La distribution de Poisson te permet de deviner combien de chocolats (ou d'e-mails) tu pourrais recevoir en une heure, par exemple.  
+     
+     La distribution de Poisson est un concept mathématique utilisé pour décrire le nombre d'événements qui se produisent dans un intervalle de temps ou d'espace fixe. Elle est utile dans le domaine de l'intelligence artificielle (IA) pour modéliser et prédire des situations où des événements rares ou aléatoires se produisent.  
 
-   Supposons que tu reçoives généralement 5 e-mails par heure. La distribution de Poisson peut te donner des informations sur la probabilité de recevoir un certain nombre d'e-mails en une heure. Par exemple, il peut te dire quelle est la probabilité de recevoir exactement 3 e-mails, 8 e-mails, ou même aucun e-mail en une heure.  
+     Imagine que tu as une boîte de chocolats et que chaque chocolat représente un événement, comme recevoir un e-mail. La distribution de Poisson te permet de deviner combien de chocolats (ou d'e-mails) tu pourrais recevoir en une heure, par exemple.  
 
-   En IA, on utilise cette distribution pour modéliser des situations similaires, comme prévoir le nombre de clients qui visitent un magasin en une journée ou combien de fois un mot spécifique apparaît dans un texte. Les chercheurs en IA utilisent ces informations pour créer des modèles et des algorithmes qui peuvent apprendre et s'adapter à partir des données qu'ils analysent.  
+     Supposons que tu reçoives généralement 5 e-mails par heure. La distribution de Poisson peut te donner des informations sur la probabilité de recevoir un certain nombre d'e-mails en une heure. Par exemple, il peut te dire quelle est la probabilité de recevoir exactement 3 e-mails, 8 e-mails, ou même aucun e-mail en une heure.  
 
-   En résumé, la distribution de Poisson est comme un outil mathématique qui aide les ordinateurs et les robots à comprendre et à prédire comment les choses se passent dans le monde réel, en se basant sur des événements rares ou aléatoires.   
+     En IA, on utilise cette distribution pour modéliser des situations similaires, comme prévoir le nombre de clients qui visitent un magasin en une journée ou combien de fois un mot spécifique apparaît dans un texte. Les chercheurs en IA utilisent ces informations pour créer des modèles et des algorithmes qui peuvent apprendre et s'adapter à partir des données qu'ils analysent.  
+
+     En résumé, la distribution de Poisson est comme un outil mathématique qui aide les ordinateurs et les robots à comprendre et à prédire comment les choses se passent dans le monde réel, en se basant sur des événements rares ou aléatoires.   
 
 
 2. La Logique   
