@@ -18,8 +18,8 @@ Autrement dit:
      * L'utilisation des flowcharts    
      ![image](https://user-images.githubusercontent.com/5098596/229406972-721bc86b-3dad-497d-9c86-8c88812a08c4.png)
        
-       Ce flowchart très simple est utilisé par la quasi majorité des entreprises, y compris SAP.  
-       Quelques unes des règles importantes à respecter pour un flowchart:
+       Ce flowchart très simple est utilisé par la quasi majorité des entreprises, y compris SAP.    
+       Quelques unes des règles importantes à respecter pour un flowchart:  
        **Clarté** : Assurez-vous que votre flowchart est clair et facile à comprendre. Utilisez des termes simples et concis pour décrire les étapes du processus. Évitez les abréviations ou les termes techniques qui pourraient semer la confusion.  
        **Ordre et séquence** : Présentez les étapes du processus dans un ordre logique et séquentiel. Les étapes doivent être disposées de haut en bas et de gauche à droite pour faciliter la lecture et la compréhension.  
        **Symboles standard** : Utilisez des symboles standard pour représenter les différentes étapes et éléments du flowchart. Par exemple, les rectangles pour les processus, les losanges pour les décisions, les cercles pour les points de départ et d'arrivée, et les flèches pour indiquer la direction du flux.        **Décisions et branchements** : Représentez clairement les points de décision et les branchements dans le flowchart. Utilisez des losanges pour les points de décision et des flèches pour montrer les différents chemins possibles en fonction des conditions.  
