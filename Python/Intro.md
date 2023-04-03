@@ -84,7 +84,15 @@ si un event a lieu n fois, et un autre event a lieu m fois, la probabilité que 
   > Il y a 23 candidats qui veulent rejoindre ton equipe.  
   > Pour chaque candidat, tu joues a PILE ou FACE et tu n'engage que quand c'est PILE.  
   > Combien de combinaisons d'équipe sont possibles ?  
-
+  
+  ```
+  Solution:
+  chaque candidat entraine lelancer du jeton; le lancer du jeton a deux resultats possibles: soit Pile ou Face  
+  Cette possibilité des deux résultats se repete 23 fois: on a 23 fois 2 fois ==> 2^23 (2 puissance 23)  
+  Si on tient compte du fait que dans ce total 2^23, on a egalement la situation ou a chaque fois cest face, on soustrait donc cette possibilité  
+  Résultat final = 2^23 -1 = 8 388 608 -1 = 8 388 607  
+  ```
+  
 **3.2 Permutations** 
   
 La permutation , c'est le nombre de facons dont on peut arranger ou ordonner quelquechose.  
