@@ -63,9 +63,10 @@ La logique est une compétence essentielle pour la programmation, car elle aide 
 
 ### 3. Mieux compter  
 3.1. Multiplication  
-<p>
+  
 si un event a lieu n fois, et un autre event a lieu m fois, la probabilité que les deux events arrivent est: **m x n** fois 
-</p>  
+    
+
   **EXERCICE:**  &#128520;
   > Un code PIN est composé de 2 nombres et de 1 lettre. Ca prend une seconde pour essayer un PIN.  
   > Dans le pire des cas, de combien de temps a-t-on besoin pour cracker un PIN ?  
@@ -76,9 +77,10 @@ si un event a lieu n fois, et un autre event a lieu m fois, la probabilité que 
   > Combien de combinaisons d'équipe sont possibles ?  
 
 3.2 Permutations 
-<p>
+  
 La permutation , c'est le nombre de facons dont on peut arranger ou ordonner quelquechose.  
-</p>
+  
+  
 supposons que nous avons n entités.  
 De combien de facons peut on choisir 1 entité parmi les n ? Ensuite, si le premier est choisi, de combien de facons peut on chosiir une seconde entité ? Ensuite si le second est choisi, de combien de facons peut on choisir une troisième entité ? etc ...  
 Cela s'exprime par la **factorielle   n! = n x (n-1) x (n-2) x (n-3) x ... x 1**  
