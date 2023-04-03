@@ -83,11 +83,18 @@ La permutation , c'est le nombre de facons dont on peut arranger ou ordonner que
   
 supposons que nous avons n entités.  
 De combien de facons peut on choisir 1 entité parmi les n ? Ensuite, si le premier est choisi, de combien de facons peut on chosiir une seconde entité ? Ensuite si le second est choisi, de combien de facons peut on choisir une troisième entité ? etc ...  
-Cela s'exprime par la **factorielle   n! = n x (n-1) x (n-2) x (n-3) x ... x 1**  
+Cela s'exprime par la **factorielle   n! = n x (n-1) x (n-2) x (n-3) x ... x 1**    
+PS: pour permuter m elements au sein de n elements: **n!/(n-m)!** - on elimine ce quil ne faut pas prendre en compte -     
 
 **EXERCICE:**  &#128520;
   > Votre camion livre dans 15 différentes villes.    
   > Vous voulez savoir comment sequencer les villes pour que le trajet vous coute le moins possible en carburant.  
   > Si l'evaluation de chaque trajet prend 1 micro seconde, combien de temps vous faudra-til pour tout evaluer ?  
    
+**EXERCICE:**  &#128520;
+  > Une musicienne etudie une gamme de 13 notes.    
+  > Elle doit creer une melodie de 6 notes parmis les 13 de la gamme; elle veut tester tous les sons possibles a partir de cela.
+  > Sachant que pour ecouter une seule melodie, il faut une seconde, combien de temps vous faudra-til pour tout ecouter ?    
+
+
 
