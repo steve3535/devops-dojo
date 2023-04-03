@@ -116,9 +116,9 @@ La formule du *Binomial* s'applique:
   > Tu disposes de 8 reines sur un échiquier vide.     
   > De combien de facons tu peux les disposer ?
   
-**3.5 Sommes** 
+**3.5 Somme** 
 
-* La somme de 1 à n:  $$\sum_{i=1}^n i = \frac{n(n+1)}{2}$$    
+La somme de 1 à n:  $$\sum_{i=1}^n i = \frac{n(n+1)}{2}$$    
   
   EXERCICE: &#128520;
 
