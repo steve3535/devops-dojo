@@ -119,4 +119,12 @@ La formule du *Binomial* s'applique:
 **3.5 Sommes** 
 
 * La somme de 1 à n:  $$\sum_{i=1}^n i = \frac{n(n+1)}{2}$$    
+  
+  EXERCICE: &#128520;
 
+  > Tu dois voyager a tout moment pour Paris dans les 30 prochains jours et revenir dans la meme periode (les memes 30 jours).     
+  > L e prix des billets fluctue selon le jour de depart ou darrivee.
+  > Combien de paires de jours te faudra -t-il checker pour tassurer de choisir le bon plan ?  
+
+  
+  
