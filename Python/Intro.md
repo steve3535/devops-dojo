@@ -9,9 +9,9 @@ Autrement dit:
 
 > *\*Edsger W. Dijkstra a reçu le Prix Turing en 1972. Le Prix Turing est considéré comme l'équivalent du prix Nobel en informatique et est décerné par l'Association for Computing Machinery (ACM). Dijkstra a reçu ce prestigieux prix en reconnaissance de ses contributions majeures à l'algorithmique, aux langages de programmation et à la philosophie de l'informatique.*  
 
-## I - Les bases  
+## Contexte
 
-1. Conseils préliminaires  
+###1. Conseils préliminaires  
    * Gardez votre cerveau pour les tâches complexes.   
      
      Eliminez "l'opérationnel" en écrivant tout ce qui peut l'être: ca vous fera gagner en temps !!!  
@@ -64,8 +64,8 @@ Autrement dit:
      En IA, on utilise cette distribution pour modéliser des situations similaires, comme prévoir le nombre de clients qui visitent un magasin en une journée ou combien de fois un mot spécifique apparaît dans un texte. Les chercheurs en IA utilisent ces informations pour créer des modèles et des algorithmes qui peuvent apprendre et s'adapter à partir des données qu'ils analysent.  
 
      En résumé, la distribution de Poisson est comme un outil mathématique qui aide les ordinateurs et les robots à comprendre et à prédire comment les choses se passent dans le monde réel, en se basant sur des événements rares ou aléatoires.   
-
-
+     
+     
 2. La Logique   
 3. Mieux compter  
-4. les Probabilités
+4. les Probabilités   
