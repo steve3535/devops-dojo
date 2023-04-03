@@ -59,24 +59,7 @@ Autrement dit:
    
      
 ### 2. La Logique  
-    La logique est une compétence essentielle pour la programmation, car elle aide à comprendre comment résoudre des problèmes et à prendre des décisions en utilisant des règles et des principes.   
-    **Tables de vérité** : Les tables de vérité sont des outils qui montrent toutes les combinaisons possibles de valeurs de vérité pour des expressions logiques. Elles sont utilisées pour étudier les relations entre différentes conditions.
-    **Contraposée** : La contraposée d'une implication (si A, alors B) est l'implication inverse (si non B, alors non A). Si l'implication originale est vraie, alors la contraposée est également vraie.
+La logique est une compétence essentielle pour la programmation, car elle aide à comprendre comment résoudre des problèmes et à prendre des décisions en utilisant des règles et des principes.   
 
-    Lois de Morgan : Les lois de Morgan sont des règles qui décrivent comment les opérateurs logiques ET et OU interagissent avec l'opérateur NON :
-        NON (A ET B) est équivalent à (NON A) OU (NON B)
-        NON (A OU B) est équivalent à (NON A) ET (NON B)
-
-    Algèbre de Boole : L'algèbre de Boole est une branche des mathématiques qui traite des opérations et des fonctions logiques. Elle est utilisée pour décrire les relations logiques entre les éléments et est souvent appliquée en informatique et en électronique.
-
-Voici quelques exemples d'opérations de base en algèbre de Boole :
-
-    Négation (NON) : C'est l'inverse de la valeur de vérité d'une proposition. Si A est vrai, alors NON A est faux, et vice versa.
-
-    Conjonction (ET) : Le résultat est vrai si et seulement si les deux propositions sont vraies. Par exemple, A ET B est vrai seulement si A et B sont vrais.
-
-    Disjonction (OU) : Le résultat est vrai si au moins l'une des propositions est vraie. Par exemple, A OU B est vrai si A est vrai, B est vrai, ou les deux sont vrais.
-
-En comprenant ces concepts de base de la logique, vous serez mieux préparé pour aborder la programmation et résoudre des problèmes complexes en utilisant des expressions et des conditions logiques.
 ### 3. Mieux compter  
 
