@@ -56,16 +56,8 @@ Autrement dit:
 
      
      La distribution de Poisson est un concept mathématique utilisé pour décrire le nombre d'événements qui se produisent dans un intervalle de temps ou d'espace fixe. Elle est utile dans le domaine de l'intelligence artificielle (IA) pour modéliser et prédire des situations où des événements rares ou aléatoires se produisent.  
-
-     Imagine que tu as une boîte de chocolats et que chaque chocolat représente un événement, comme recevoir un e-mail. La distribution de Poisson te permet de deviner combien de chocolats (ou d'e-mails) tu pourrais recevoir en une heure, par exemple.  
-
-     Supposons que tu reçoives généralement 5 e-mails par heure. La distribution de Poisson peut te donner des informations sur la probabilité de recevoir un certain nombre d'e-mails en une heure. Par exemple, il peut te dire quelle est la probabilité de recevoir exactement 3 e-mails, 8 e-mails, ou même aucun e-mail en une heure.  
-
-     En IA, on utilise cette distribution pour modéliser des situations similaires, comme prévoir le nombre de clients qui visitent un magasin en une journée ou combien de fois un mot spécifique apparaît dans un texte. Les chercheurs en IA utilisent ces informations pour créer des modèles et des algorithmes qui peuvent apprendre et s'adapter à partir des données qu'ils analysent.  
-
-     En résumé, la distribution de Poisson est comme un outil mathématique qui aide les ordinateurs et les robots à comprendre et à prédire comment les choses se passent dans le monde réel, en se basant sur des événements rares ou aléatoires.   
+   
      
-     
-2. La Logique   
-3. Mieux compter  
-4. les Probabilités   
+### 2. La Logique   
+### 3. Mieux compter  
+
